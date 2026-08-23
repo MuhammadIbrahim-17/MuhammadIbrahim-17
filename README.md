@@ -20,9 +20,9 @@ When I'm not building agents, you'll find me experimenting with new AI tools and
 
 ## 🧩 Projects Highlights
 
-### 🧠 AI-Powered Feedback Classification Agent
-AI-driven platform that categorizes customer feedback messages and automatically triggers relevant actions via Airtable and Slack.
-**Tech:** n8n, OpenAI API, Airtable, Slack
+### 🍽️ Restaurant UGC Agent
+Automated workflow engineered to curate, process, and organize User-Generated Content (UGC) for restaurants, streamlining social proof collection and automated content categorization.
+**Tech:** n8n, OpenAI API, Airtable, Webhooks
 
 ### 📧 Email Integrator & Record Updater Agent
 Automated system that processes incoming email communications, updates centralized Airtable records, and generates contextual auto-replies.
