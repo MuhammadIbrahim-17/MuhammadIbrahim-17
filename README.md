@@ -23,14 +23,21 @@ When I'm not building agents, you'll find me experimenting with new AI tools and
 ### 🍽️ Restaurant UGC Agent
 Automated workflow engineered to curate, process, and organize User-Generated Content (UGC) for restaurants, streamlining social proof collection and automated content categorization.
 **Tech:** n8n, OpenAI API, Airtable, Webhooks
+<img width="1257" height="417" alt="75422e01-2bc9-4057-9cfd-61f66a1d2153" src="https://github.com/user-attachments/assets/fc7dc569-5649-4faa-be2b-61814ae91144" />
+
 
 ### 📧 Email Integrator & Record Updater Agent
 Automated system that processes incoming email communications, updates centralized Airtable records, and generates contextual auto-replies.
 **Tech:** n8n, Gmail API, Airtable, OpenAI API
+<img width="1266" height="449" alt="87973b50-52b2-465c-aaf9-3b308e643fe8" src="https://github.com/user-attachments/assets/9f13eb0a-ec08-4580-93b9-cc14906e34ba" />
+
 
 ### 🔍 RAG Knowledge Base Agent
 Retrieval-Augmented Generation workflow engineered to query vectorized document stores and deliver accurate, context-aware responses to user queries.
 **Tech:** n8n, OpenAI API, Vector Database, Prompt Engineering
+<img width="1078" height="421" alt="50b5282e-7aac-4a4d-a9b3-785e965c3916" src="https://github.com/user-attachments/assets/f446375b-3645-434d-83b4-5b73dbb2cadb" /> <img width="878" height="494" alt="e2fd9f19-d403-44a2-b446-ba26813f961d" src="https://github.com/user-attachments/assets/81a4fab0-47fb-42e3-b802-964995039f61" />
+
+
 
 ---
 
