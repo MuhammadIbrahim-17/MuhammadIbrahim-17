@@ -28,9 +28,9 @@ AI-driven platform that categorizes customer feedback messages and automatically
 Automated system that processes incoming email communications, updates centralized Airtable records, and generates contextual auto-replies.
 **Tech:** n8n, Gmail API, Airtable, OpenAI API
 
-### ⚙️ Automated Task Orchestrator
-Custom low-code automation agents engineered to streamline repetitive operational tasks and data synchronization across tools.
-**Tech:** n8n, REST APIs, Webhooks, JSON
+### 🔍 RAG Knowledge Base Agent
+Retrieval-Augmented Generation workflow engineered to query vectorized document stores and deliver accurate, context-aware responses to user queries.
+**Tech:** n8n, OpenAI API, Vector Database, Prompt Engineering
 
 ---
 
@@ -39,7 +39,7 @@ Custom low-code automation agents engineered to streamline repetitive operationa
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **Automation & Orchestration** | n8n, Webhooks, Low-Code Systems |
-| **AI & LLM Integration** | OpenAI APIs, Prompt Engineering, Agent Workflows |
+| **AI & LLM Integration** | LLM APIs, Fal.ai,etc  |
 | **Data & Databases** | Airtable, Data Integration |
 | **Messaging & Operations** | Slack, Gmail API |
 | **Languages & Fundamentals** | English, Urdu, Workflow Logic |
